@@ -1,0 +1,28 @@
+body {
+	background-image: url(IMG_9072.JPG);
+	font-family:"Times New Roman", Times,serif;
+	text-align: center;
+	color:White
+}
+	h1 {
+	background-color:Black;
+	color:White;
+	text-align: center; 
+	text-transform: uppercase;
+	opacity: 0.6;
+	padding: 10px;
+   
+ }
+
+ h2 {
+	color:White;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+}
+
+p {
+	color:White;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
