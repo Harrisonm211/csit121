@@ -1,0 +1,102 @@
+body {
+    background-image: url(pizzabackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+#wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: white;
+    font-family: Arial;
+    margin: 10px 150px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    margin: 10px 75px;
+    font-family: "Times New Roman";
+    text-align: center;
+    opacity: 0.7;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: left;
+}
+
+li {
+    text-align: left;
+    font-family: "Times New Roman";
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    width: 680px;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    margin-left: 250px;
+    padding: 15px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
+
+table {
+    width:85%;
+    border-collapse:collapse;
+    margin-top:25px;
+    background-color:black;
+    color:white;
+    box-shadow: 5px 5px 5px #828282;
+}
+
+th, td {
+    border:1px solid white;
+    padding:10px;
+    text-align:center;
+}
+
+ th { 
+    background-color:#b3b3b3;
+    transition: background-color 2s linear;
+
+}
+
+label{
+    display:block;
+    margin-bottom:6px;
+}
+
+select{width:25%;
+    padding:14px;
+    margin-bottom:10px;
+    box-sizing:border-box;
+}
+
+
+
+
+
+
+
+
