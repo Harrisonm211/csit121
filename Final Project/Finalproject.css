@@ -1,0 +1,93 @@
+body {
+	background-image: url(IMG_9316.JPG);
+	font-family:"Times New Roman", Times,serif;
+	text-align: center;
+	color:white;
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	max-width:800px;
+	margin:0;
+	padding:20px;
+	box-sizing:border-box;
+}
+header {
+	text-align:center;
+}
+
+h1 {
+	color:White;
+	text-align: center; 
+	text-transform: uppercase;
+	opacity: 0.6;
+	padding: 10px;
+
+}
+
+main {
+	text-align:justify;
+}
+footer { 
+	text-align:center;
+}
+   
+h2 {
+	color:White;
+	margin:10px 75px;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	opacity:0.9;
+}
+
+h3 {
+	color:white;
+}
+
+
+p {
+	color:White;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:25px;
+	text-align: right;
+}
+
+li {
+	text-align:center;
+	font-family:"Times New Roman";
+	color:white;
+	text-align:center;
+}
+
+label {
+	display:block;
+	margin-bottom:6px;
+}
+
+table {
+	width:85%;
+	 border-collapse:collapse;
+     margin-top:25px;
+     background-color:black;
+     color:white;
+     box-shadow: 5px 5px 5px #828282;
+}
+
+th, td {
+    border:1px solid white;
+    padding:10px;
+    text-align:center;
+}
+
+ th { 
+    background-color:#b3b3b3;
+    transition: background-color 2s linear;
+}
+
+
+
+
+
+	
+
